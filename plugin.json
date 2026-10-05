@@ -2,7 +2,7 @@
   "id": "cuckoo-agents-pack",
   "name": "专家子代理包",
   "version": "1.0.0",
-  "description": "为 Cuckoo Code 增加 5 个专家子代理：代码审查员、测试工程师、安全审计员、调试专家、文档工程师。用 runAgent(name, task) 委派任务，独立上下文执行，只返回结果摘要。纯提示词、零执行。",
+  "description": "为 Cuckoo Code 增加 5 个专家子代理（代码审查员、测试工程师、安全审计员、调试专家、文档工程师），用 runAgent(name, task) 委派任务，独立上下文执行，只返回结果摘要。纯提示词、零执行、开箱即用。",
   "author": "jiangchengnay",
   "minAppVersion": "0.8.7"
 }
